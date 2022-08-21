@@ -1,0 +1,8 @@
+h1{
+    background: blue;
+    color: yellow;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
